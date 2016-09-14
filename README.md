@@ -1,18 +1,15 @@
+# how to install express
+* npm install -g express-generator
+* cd loc8r/
+* express --css less --hogan
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# how to install simon
+* https://github.com/simonholmes/getting-MEAN
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+# how to start from beginning
+* create c9 workspace
+* create github
+* link local to get hub repo
+* automate check in. Use sudo chmod 775 github.sh before you can use ./github.sh
+* install express see above.
+* install simons chapter
