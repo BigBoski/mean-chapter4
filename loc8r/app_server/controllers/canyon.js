@@ -1,7 +1,7 @@
 
 /* GET 'home' page */
 module.exports.homelist = function(req, res) {
-    res.render('locations-list', {
+    res.render('canyon-list', {
         title: 'Loc8r - find a place to work with wifi',
         pageHeader: {
             title: 'Loc8r',
@@ -32,7 +32,7 @@ module.exports.homelist = function(req, res) {
 
 /* GET 'Location info' page */
 module.exports.locationInfo = function(req, res) {
-    res.render('location-info', {
+    res.render('canyon-info', {
         title: 'Bo Knows Pizza',
         pageHeader: {
             title: 'Bo Knows Pizza'

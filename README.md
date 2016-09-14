@@ -13,3 +13,4 @@
 * automate check in. Use sudo chmod 775 github.sh before you can use ./github.sh
 * install express see above.
 * install simons chapter
+
